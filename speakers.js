@@ -3,7 +3,7 @@ window.SPEAKERS = [
   {
     id: "wesley-hunt",
     name: "Wesley Hunt",
-    role: "Optic Systems",
+    role: "CEO · Optic Systems",
     line: "360° video inspection and management, at unmatched operational speed.",
     photo: "assets/speakers/wesley-hunt.jpg",
   },
